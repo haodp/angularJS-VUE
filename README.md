@@ -1,6 +1,4 @@
-mvvm
-
-为方便理解，angularjs knockoutjs vuejs比较。
+angularjs knockoutjs vuejs compare。
 
 knockoutjs: http://localhost:9999/mvvmweb/knockoutpage
 
